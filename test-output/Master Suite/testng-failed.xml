@@ -4,17 +4,26 @@
   <listeners>
     <listener class-name="utilities.ExtentReportManager"/>
   </listeners>
-  <test thread-count="5" name="Linux-Firefox(failed)">
-    <parameter name="os" value="Linux"/>
-    <parameter name="browser" value="firefox"/>
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="Master"/>
+        <include name="Smoke"/>
+        <include name="Sanity"/>
+        <include name="Regression"/>
+        <include name="datadriven"/>
+      </run>
+    </groups>
     <classes>
-      <class name="testCases.TC007_CheckoutPageTest">
+      <class name="testCases.TC006_ShoppingCartTest">
         <methods>
           <include name="tearDown"/>
           <include name="setup"/>
-          <include name="verifyCheckoutPage"/>
+          <include name="verifyShoppingCart"/>
         </methods>
-      </class> <!-- testCases.TC007_CheckoutPageTest -->
+      </class> <!-- testCases.TC006_ShoppingCartTest -->
     </classes>
-  </test> <!-- Linux-Firefox(failed) -->
+  </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
