@@ -24,3 +24,26 @@
 09:49:11 [main] INFO  testCases.TC008_LoginDDT - ***Finished TC008_LoginDataDrivenTest***
 09:49:11 [main] INFO  testCases.TC008_LoginDDT - ***Starting TC008_LoginDataDrivenTest***
 09:49:22 [main] INFO  testCases.TC008_LoginDDT - ***Finished TC008_LoginDataDrivenTest***
+16:01:58 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+16:02:04 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+16:02:08 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+16:02:10 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+16:02:13 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Starting TC006_ShoppingCartTest ********
+16:02:23 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Finished TC006_ShoppingCartTest ********
+16:02:26 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Starting TC007_CheckoutPageTest ********
+16:04:33 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+16:04:39 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+16:04:43 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+16:04:46 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+16:04:49 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Starting TC006_ShoppingCartTest ********
+16:04:59 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Finished TC006_ShoppingCartTest ********
+16:05:03 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Starting TC007_CheckoutPageTest ********
+16:05:20 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Finished TC007_CheckoutPageTest ********
+16:12:41 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+16:12:46 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+16:12:49 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+16:12:51 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+16:12:54 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Starting TC006_ShoppingCartTest ********
+16:13:05 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Finished TC006_ShoppingCartTest ********
+16:13:08 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Starting TC007_CheckoutPageTest ********
+16:13:25 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Finished TC007_CheckoutPageTest ********
