@@ -47,3 +47,23 @@
 16:13:05 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Finished TC006_ShoppingCartTest ********
 16:13:08 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Starting TC007_CheckoutPageTest ********
 16:13:25 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Finished TC007_CheckoutPageTest ********
+13:06:58 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Files\Automation Project\Opencart\Master.xml
+
+13:08:01 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+09:26:45 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+09:26:50 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+09:26:53 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+09:26:55 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+09:26:57 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Starting TC006_ShoppingCartTest ********
+09:27:06 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Finished TC006_ShoppingCartTest ********
+09:27:08 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Starting TC007_CheckoutPageTest ********
+09:27:21 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Finished TC007_CheckoutPageTest ********
+09:32:36 [main] INFO  testCases.TC001_AccountRegistrationTest - *****Starting TC001_AccountRegistrationTest*****
+09:32:40 [main] INFO  testCases.TC001_AccountRegistrationTest - *** Finished TC001_AccountRegistrationTest ***
+09:32:42 [main] INFO  testCases.TC002_LoginTest - **Starting TC002_LoginTest**
+09:32:44 [main] INFO  testCases.TC002_LoginTest - **Finished TC002_LoginTest**
+09:32:46 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Starting TC006_ShoppingCartTest ********
+09:32:55 [main] INFO  testCases.TC006_ShoppingCartTest - ******** Finished TC006_ShoppingCartTest ********
+09:32:57 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Starting TC007_CheckoutPageTest ********
+09:33:10 [main] INFO  testCases.TC007_CheckoutPageTest - ******** Finished TC007_CheckoutPageTest ********
