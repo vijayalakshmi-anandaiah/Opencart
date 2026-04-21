@@ -8,13 +8,6 @@
     <parameter name="os" value="Windows"/>
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="testCases.TC001_AccountRegistrationTest">
-        <methods>
-          <include name="verify_Account_Registration"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-        </methods>
-      </class> <!-- testCases.TC001_AccountRegistrationTest -->
       <class name="testCases.TC007_CheckoutPageTest">
         <methods>
           <include name="tearDown"/>
@@ -22,20 +15,6 @@
           <include name="verifyCheckoutPage"/>
         </methods>
       </class> <!-- testCases.TC007_CheckoutPageTest -->
-      <class name="testCases.TC002_LoginTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="verify_loginPage"/>
-        </methods>
-      </class> <!-- testCases.TC002_LoginTest -->
-      <class name="testCases.TC006_ShoppingCartTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="verifyShoppingCart"/>
-        </methods>
-      </class> <!-- testCases.TC006_ShoppingCartTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Master Suite] -->
